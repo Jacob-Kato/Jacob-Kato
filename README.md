@@ -1,4 +1,4 @@
-# Jacob’s Coding Projects ⚡
+# Coding Projects ⚡
 
 ## 17 | AI, App Dev & Tools | Low-Level Programming
 
