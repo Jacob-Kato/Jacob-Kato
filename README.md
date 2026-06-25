@@ -1,7 +1,6 @@
 # I'm Jacob 
 
 I'm a 17-year-old developer obsessed with c and c++
-recovering Claude code user :( 
 
 ###  My Tech Stack
 
