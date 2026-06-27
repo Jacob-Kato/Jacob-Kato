@@ -6,7 +6,7 @@ I'm a 17-year-old developer obsessed with c and c++
 
 - **Deep Diving:** C, C++ (Low-level, memory management, systems)
 - **Scripting & Logic:** Python (TUI apps, automation, quick scripting)
-- **Web Stuff:** JavaScript, HTML5, CSS3 (Building interfaces for my projects)
+- **Web Stuff:** JavaScript, HTML5, CSS3 (Building interfaces for my projects) :( web gui == bad 
 
 ### What I'm Working On
 
