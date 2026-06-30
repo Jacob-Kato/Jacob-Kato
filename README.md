@@ -11,8 +11,6 @@ I'm a 17-year-old developer obsessed with c and c++
 ### What I'm Working On
 
 - **JYK2:** Retro console kernel from scratch
-- **NULL:** Coming soon ...
-- **NULL:** Coming soon ...
   
 ### My Stats & Proof
 
