@@ -10,7 +10,7 @@ I'm a 17-year-old developer obsessed with c and c++
 
 ### What I'm Working On
 
-- **JYK2:** Retro console kernel from scratch
+- **JYK2:** Quant kernel from scratch
   
 ### My Stats & Proof
 
