@@ -1,6 +1,6 @@
 # I'm Jacob 
 
-I'm a 17-year-old developer obsessed with c and c++
+I'm a 17-year-old developer obsessed with c and c++ and sometimes python
 
 ###  My Tech Stack
 
