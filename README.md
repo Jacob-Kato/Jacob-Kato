@@ -10,7 +10,7 @@ I'm a 17-year-old obsessed with c and c++ and sometimes python
 
 ### What I'm Working On
 
-- **JYK2:** Quant kernel from scratch
+- **JYK2:** UFP kernel from scratch
   
 ### My Stats & Proof
 
