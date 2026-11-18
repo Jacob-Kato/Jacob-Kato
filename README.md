@@ -1,12 +1,12 @@
 # I'm Jacob 
 
-I'm a 17-year-old obsessed with c and c++ and sometimes python
+I'm a 17-year-old  
 
 ###  My Tech Stack
 
-- **Deep Diving:** C, C++ (Low-level, memory management, systems)
-- **Scripting & Logic:** Python (TUI apps, automation, quick scripting)
-- **Web Stuff:** JavaScript, HTML5, CSS3 (Building interfaces for my projects) :( web gui == bad 
+- **Deep Diving:** C, C++
+- **Scripting & Logic:** Python 
+- **Web Stuff:** JavaScript, HTML5, CSS3 
 
 ### What I'm Working On
 
