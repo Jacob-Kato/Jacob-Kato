@@ -10,8 +10,8 @@ I'm a 17-year-old obsessed with c and c++ and sometimes python
 
 ### What I'm Working On
 
-- **JYK2:** UFP kernel from scratch
+- **Ostendo:** A tool  to analyze the Collatz conjecture
   
-### My Stats & Proof
+### My Stats & Proof 
 
 * Check out my pinned repositories below to see my code it's pretty cool (at lest I think so)
